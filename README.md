@@ -22,3 +22,4 @@ a direcotory (to be used in conjunction with script.php)
 runner.sh will run both script.php and backgroundsetter.sh, so it will both
 download images and set the background to a random one. 
 
+eric sucks
